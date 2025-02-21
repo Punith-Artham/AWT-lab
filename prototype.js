@@ -17,6 +17,6 @@ class Student extends Person {
     }
 }
 
-const student2 = new Student("Varun", "MERN Stack");
+const student2 = new Student("punith", "MERN Stack");
 student2.greet();  
 student2.study();  

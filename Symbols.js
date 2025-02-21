@@ -1,6 +1,6 @@
 const id = Symbol("id");
 const user = {
-  name: "Varun",
+  name: "punith",
   [id]: 101
 };
 

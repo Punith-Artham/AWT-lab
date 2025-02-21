@@ -5,9 +5,9 @@ const [first,...rest] = numbers;
 console.log(rest); 
 
 const obj = {
-    name : "varun reddy",
+    name : "punith",
     age : 20,
-    rollno : "22b81a12c5"
+    rollno : "22b81a12a1"
 }
 
 const{name : studentName, age,rollno : id = 1} = obj;
